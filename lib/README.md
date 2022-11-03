@@ -17,3 +17,13 @@ See [LICENSE](LICENSE) for more details.
 
 # Copyright
 Copyright (c) 2020 Kosaki Mezumona
+
+
+```
+cd lib
+mkdir build
+cd build
+cmake ..
+make install 
+
+```
